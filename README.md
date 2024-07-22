@@ -1,13 +1,14 @@
 # BANK-LOAN-REPORT
 
 
-## Sales Dashboard snap
-![supply chain sales dashboard](https://github.com/ishandeshpande807/supply-chain/assets/171331939/da3478ce-9f56-4b74-aa3e-e1d10fcc6cb3)
+## Summary Dashboard snap
+![summary snap](https://github.com/user-attachments/assets/0208a988-a575-4082-bb4c-2f76d6b07740)
 
-## inventory Dashboard snap
-![supply chain inventory dashboard](https://github.com/ishandeshpande807/supply-chain/assets/171331939/b12e9b17-1e4e-4801-b87b-f13d7d9e03b7)
+## Overview Dashboard snap
+![overview snap](https://github.com/user-attachments/assets/5e7ccd7c-1b30-47d3-9c23-473990a6b8f4)
 
-
+## Overview Dashboard snap
+![details snap](https://github.com/user-attachments/assets/7567957e-f07f-4012-8fa9-d205be2d5a6f)
 
 ## Overview
 The Bank Loan Report project aims to develop a robust reporting system that provides comprehensive insights into our bank's lending activities and loan portfolio performance. Through a series of dashboards and detailed reports, the project will empower stakeholders to make informed decisions, monitor key performance indicators (KPIs), and optimize lending strategies.
